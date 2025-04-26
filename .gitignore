@@ -1,0 +1,9 @@
+# Arquivos de build do Qt
+build/
+*.user
+*.autosave
+*.pro.user
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
